@@ -1,0 +1,17 @@
+body{
+    background-color: chartreuse;
+}
+#score{
+    font-size: 20px;
+    float: left;
+    margin-left: 30px;
+}
+#timer{
+    font-size: 20px;
+    float: right;
+    margin-right: 30px;
+}
+#sketchname{
+    color: navy;
+    font-size: 25px;
+}
